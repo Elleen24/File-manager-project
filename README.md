@@ -16,15 +16,15 @@ It allows users to easily browse, manage, and organize files and folders through
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 - **Language:** C  
 - **GUI Toolkit:** GTK+ 3  
 - **Headers:** `<dirent.h>`, `<sys/stat.h>`, `<gio/gio.h>`, `<windows.h>`  
 
 ---
 
-## ⚙️ How to Build
-### 🪟 On Windows (using MinGW)
+##  How to Build
+### On Windows (using MinGW)
 1. Make sure GTK+ 3 is installed.  
 2. Run the following command in the terminal:
 
